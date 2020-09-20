@@ -1,5 +1,5 @@
 # this is a read me file 
-### this is Aishah Satuf
+### this is Aishah Satouf
 
 [my GitHub profile](https://github.com/Aishahsatouf)
 
